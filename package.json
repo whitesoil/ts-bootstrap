@@ -1,0 +1,25 @@
+{
+  "name": "ts-bootstrap",
+  "version": "1.0.0",
+  "description": "Typescript Bootstrap",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitesoil/ts-bootstrap.git"
+  },
+  "author": "Seon Namkung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whitesoil/ts-bootstrap/issues"
+  },
+  "homepage": "https://github.com/whitesoil/ts-bootstrap#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.2",
+    "ts-node": "^8.6.2",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.7.5"
+  }
+}
